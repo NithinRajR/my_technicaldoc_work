@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ppfml version="2.00" project="Please enter the Project title here" type="4">
+  <contextmap>
+    
+  </contextmap>
+  <topiclist defaulttopic="About_Cync.htm">
+    
+    <topic>
+      About_Cync.htm
+    </topic>
+    
+    <topic>
+      Administration\Administration Overview.htm
+    </topic>
+    
+    <topic>
+      Cash_Application\Batch_Process\Batch_Process.htm
+    </topic>
+    
+    <topic>
+      Cash_Application\Batch_Process\Ungrouped_Checks.htm
+    </topic>
+    
+    <topic>
+      Cash_Application\Batch_Process\Processed_Batch.htm
+    </topic>
+    
+    <topic>
+      Factoring\Processing\Factoring_File_Uploads.htm
+    </topic>
+    
+    <topic>
+      Factoring\Processing\Data_Upload.htm
+    </topic>
+    
+    <topic>
+      Factoring\Processing\Manual_Entry.htm
+    </topic>
+    
+    <topic>
+      Factoring\Processing\New_Invoices.htm
+    </topic>
+    
+    <topic>
+      Factoring\Processing\Duplicate_Invoices.htm
+    </topic>
+    
+    <topic>
+      Factoring\Processing\Ineligible.htm
+    </topic>
+    
+    <topic>
+      Factoring\Processing\Pre_Verification.htm
+    </topic>
+    
+    <topic>
+      Factoring\Processing\Verified.htm
+    </topic>
+    
+    <topic>
+      Factoring\Processing\Approve_Funding.htm
+    </topic>
+    
+    <topic>
+      Factoring\Processing\Funded_Invoices.htm
+    </topic>
+    
+    <topic>
+      Factoring\Processing\Recourse.htm
+    </topic>
+    
+    <topic>
+      Factoring\Processing\Cash_Receipt.htm
+    </topic>
+    
+    <topic>
+      Factoring\Processing\Cash_Reserve.htm
+    </topic>
+    
+    <topic>
+      Factoring\Processing\Interest_Inquiry.htm
+    </topic>
+    
+    <topic>
+      Factoring\Maintenance\Factoring_Charge_Codes.htm
+    </topic>
+    
+    <topic>
+      Factoring\Maintenance\Term_Codes.htm
+    </topic>
+    
+    <topic>
+      Factoring\Maintenance\Invoice_Status.htm
+    </topic>
+    
+  </topiclist>
+  <filenamemap>
+    <filenameentry moniker="wh_languagetype">
+      <filename>
+        en_US
+      </filename>
+    </filenameentry>
+    <filenameentry moniker="wh_stoplist">
+      <filename>
+        whxdata/stopwords.xml
+      </filename>
+    </filenameentry>
+    <filenameentry moniker="startpage">
+      <filename>
+        index.htm
+      </filename>
+    </filenameentry>
+        
+    <filenameentry moniker="favicon">
+      <filename>
+        C:/Users/Nithin.r/OneDrive/OneDrive - Idexcel/Documents/GitHub/cync-help/Dev3New/CYNC_User_Manual_Source_rh2020/contents/assets/images/Cync Transparent - Copy.png
+      </filename>
+    </filenameentry>
+    
+  </filenamemap>
+</ppfml>
